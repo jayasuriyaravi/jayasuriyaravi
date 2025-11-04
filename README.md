@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Jayasuriya R</h1>
-<h3 align="center">"As a pre-final year student with a passion for web design and UI/UX .🌐💡 Currently honing my skills and gearing up for the exciting journey ahead. #WebDesign #CodingEnthusiast #UIUXDesigner"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayasuriyaravi&label=Profile%20views&color=0e75b6&style=flat" alt="jayasuriyaravi" /> </p>
 
